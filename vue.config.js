@@ -8,4 +8,7 @@ module.exports = {
                 return args
             })
     },
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/animal-crossing-slot/'
+    : '/'
 }
