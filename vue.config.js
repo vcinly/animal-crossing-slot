@@ -8,5 +8,4 @@ module.exports = {
                 return args
             })
     },
-    outputDir: 'docs'
 }
