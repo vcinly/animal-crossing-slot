@@ -1,24 +1,7 @@
 # animal-crossing-slot
 
-## Project setup
-```
-yarn install
-```
+Randomly display of animal in Animal Crossing
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+今日之星
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+随机展示动物之森中的一只小动物，以及其详情。
