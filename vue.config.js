@@ -7,5 +7,6 @@ module.exports = {
                 args[0].title = "今日之星"
                 return args
             })
-    }
+    },
+    outputDir: 'docs'
 }
