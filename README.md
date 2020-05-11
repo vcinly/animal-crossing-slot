@@ -1,5 +1,7 @@
 # animal-crossing-slot
 
+[DEMO](https://vcinly.github.io/animal-crossing-slot/)
+
 Randomly display of animal in Animal Crossing
 
 今日之星
