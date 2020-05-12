@@ -222,6 +222,9 @@ export default {
         Object.assign(this.$data, this.$options.data());
         this.isStepTwo = false;
         this.isStepThree = false;
+        setTimeout(() => {
+          this.start()
+        }, 2000);
       }, 1000);
       let timer = null
       cancelAnimationFrame(timer);
